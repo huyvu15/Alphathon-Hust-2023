@@ -1,5 +1,7 @@
 ![Alphathon](https://www.worldquant.com/wp-content/uploads/2023/03/IQC-Logo-for-Press-Release_1660x1072.png)
 
+# link: https://platform.worldquantbrain.com/learn
+
 # Tổng hợp alpha đã submit mùa giải Alphathon Hust Challenge 2023
 
 Các alpha đa phần là đi copy trên github này để về sửa
@@ -16,6 +18,8 @@ Cũng tức vì mất toi 600$ (tính cả chi phí cơ hội nhưng đây cũng
 ## top 3: 400 $
 ## top 4-5: 200 $
 ## top 6-10: 100 $ 
+
+(Tổng 3000$)
 
 Điểm số cập nhập lúc 1h30 hằng ngày(có thể xem luôn tại lúc 1h25 ở chỗ rank thế giới)
 
