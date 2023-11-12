@@ -1,4 +1,4 @@
-![Alphathon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldquant.com%2Fideas%2Fworldquant-commences-2023-international-quant-championship%2F&psig=AOvVaw2SA0vTmVUTNTBuj9yASg-P&ust=1699872235963000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjfhNijvoIDFQAAAAAdAAAAABAE)
+![Alphathon](https://www.worldquant.com/wp-content/uploads/2023/03/IQC-Logo-for-Press-Release_1660x1072.png)
 
 # Tổng hợp alpha đã submit mùa giải alphathon challenge 2023
 
