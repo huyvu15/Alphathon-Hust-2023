@@ -11,6 +11,7 @@ Khi tham gia cuộc thi các bạn chú ý thời gian, lúc mình thi thời gi
 
 Cũng tức vì mất toi 600$ (tính cả chi phí cơ hội nhưng đây cũng là một bài học xương máu đối với bản thân). Mọi sai lầm đều phải trả giá bằng tiền. 
 
+Đây nhé không lại bảo điêu :)
 
 ![Đây nhé không lại bảo điêu :)](top.png)
 
